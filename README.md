@@ -2,7 +2,7 @@
 
 - [Tech Stack:](#tech-stack)
   - [Next JS](#next-js)
-  - [SASS/SCSS - Custom Styling](#sass-scss---custom-styling)
+  - [SASS/SCSS - Custom Styling](#sass-scss)
     - [Benefits:](#benefits)
   - [AntDesign](#antdesign)
   - [MongoDB](#mongodb)
