@@ -158,3 +158,35 @@ It is a cloud based testing tool. Developers and testers can do cross-browser te
 ***Cross Browser testing**: it is a functional testing done to check if the application is working as expected or not in different browsers for different operating systems.
 
   We can use BrowserStack as a remote lab and can use it as a real desktop browser. It gives us Javascript unit tests and supports over 750 configurations.
+## User Acceptance Testing(UAT):
+User acceptance testing is a type of testing performed by the end user or the client to verify/accept the software system before moving the software application to the production environment. UAT is done in the final phase of testing after functional, integration and system testing is done.
+
+### Purpose:
+The main purpose of UAT is to validate end to end business flow. It does not focus on cosmetic errors, spelling mistakes or system testing. UAT is carried out in a separate testing environment with production like set up.
+
+###  Need:
+Need of UAT arises once the website has undergone Unit, Integration and System testing because developers might have built the site based on requirements documents by their own understanding and further required changes during development may not be effectively communicated to them. UAT is essential since the requirements may change during the course of development that may not be effectively communicated to the development team.
+
+### Prerequisites:
+-   Business Requirements must be available
+    
+-   Code should be fully developed
+    
+-   Unit Testing, Integration Testing & System Testing should be completed
+    
+-   All the reported bugs/issue must be fixed before UAT
+
+### Best Practices: 
+Following points should be considered to make UAT successful:
+
+-   Prepare UAT plan early in the project life cycle
+    
+-   Prepare checklist before the UAT starts
+    
+-   Set the expectation and define the scope of UAT clearly
+    
+-   Test end to end business flow and avoid system tools
+    
+-   Test the system or application with real world scenarios and data
+    
+-   Conduct feedback session and meeting before moving to production
