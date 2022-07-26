@@ -215,3 +215,41 @@ Heatmap tool offers a two dimensional representation of how customers are intera
     
 
 - Real-time monitoring: Tracks how visitors are using the website in real time
+
+  
+
+## A/B Testing:
+A/B testing(also known as split testing) is a method of comparing two versions of a website and app against each other to determine which one performs better. It can be used to continually improve a given experience or improve a single goal like conversion rate over time.
+
+### Process:
+-   Collect data: This analytics will often provide information where we can begin optimizing. It provides a way to look for pages with low conversion rates or high drop off rates.
+    
+-   Identify goals: Goals can be anything from clicking a button or link to email -signups.
+    
+-   Generate Hypothesis: Once a goal has been identified, we can begin generating A/B testing ideas for why we think they will be better than the current version.
+    
+-   Create Variations: Make the desired changes to an element of the website or mobile app experience. This might be changing the colour of a button, swapping the order of elements on the page, hiding navigation elements, or something entirely custom.
+    
+-   Run experiment: kick start the testing and wait for visitors to participate. At this point, visitors will be randomly assigned to different variations of the site. Their interaction with each experience is measured, counted and compared to determine how each performs
+    
+-   Analyze Results: Once the experiment is complete, results will be analyzed.
+
+### Top A/B testing tool:
+1.  #### [Google Optimize](https://marketingplatform.google.com/about/optimize/)
+    
+2.  #### [Optimizely](https://www.optimizely.com/)
+    
+3.  #### [Zoho PageSense](https://www.zoho.com/pagesense/)
+    
+4.  #### [HubSpot](https://www.ventureharbour.com/recommends/hubspot/)
+    
+5.  #### [Omniconvert](https://www.omniconvert.com/)
+### Contact Forms
+Forms are an essential part of any business. Whether we are looking for new leads, or want to collect information from our website visitors, forms can be a powerful tool in our marketing arsenal.
+
+  
+
+However not all forms are created equal - some may need to offer more features than others.
+
+We have got two choices either to build forms using a form builder(like Zoho Forms) or build them on our own.
+
