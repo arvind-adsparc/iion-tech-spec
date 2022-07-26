@@ -1,5 +1,5 @@
 # [iion.io - Tech Specification](#iionio---tech-specification)
-  * [Tech Stack:](#tech-stack-)
+  * [Tech Stack:](#tech-stack)
     + [Next JS](#next-js)
     + [SASS/SCSS - Custom Styling](#sass-scss---custom-styling)
       - [Benefits:](#benefits-)
@@ -11,7 +11,7 @@
   * [Content Editing Tool for Marketing Team - CMS](#content-editing-tool-for-marketing-team---cms)
     + [Conclusion](#conclusion-1)
   * [Site Management and Monitoring Service:](#site-management-and-monitoring-service-)
-    + [Amazon CloudWatch [paid] - [Link](https://aws.amazon.com/cloudwatch/)](#amazon-cloudwatch--paid-----link--https---awsamazoncom-cloudwatch--)
+    + [Amazon CloudWatch [paid]
       - [Features:](#features-)
     + [Uptime Robot [free + paid] - [Link](https://uptimerobot.com/)](#uptime-robot--free---paid-----link--https---uptimerobotcom--)
       - [Features:](#features--1)
