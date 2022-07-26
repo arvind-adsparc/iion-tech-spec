@@ -61,3 +61,25 @@ Along with Google PageSpeed there are other platforms such GTmetrix, WebPage Tes
 
 ### Conclusion
 The real purpose of testing the site’s performance with Google PageSpeed Insights isn’t to achieve a high score. Instead, it’s to find problem spots on the site, so that we can optimize them and decrease both the actual and perceived loading times.
+
+## Content Editing Tool for Marketing Team - CMS
+
+Since we will be creating the frontend of the site using Next.js, the content editing side of things would be done using a [headless CMS](https://www.enginess.io/insights/pros-cons-headless-cms) approach.
+The iion.io website might have the following pages, each with different data requirements.
+
+-   About Us: This page shows the company information, which will be written directly in the source code. No need to fetch the data
+    
+-   Blogs: This page shows the list of all blog posts. The data will be fetched from an API.
+    
+-   Individual Page: This page shows each individual blog page. Similar to blogs page, the data will be fetched from an API.
+    
+-   Homepage: This page will show the main information about the site. It can contain dynamic as well as static content. Some content will be written directly in the source code while some will be fetched from an API or multiple APIs.
+    
+One of the best features of Next.js is per page configuration for pre-rendering. We get to choose a different data fetching method for each page.
+
+### Conclusion
+
+While a content editing tool will not allow the marketing team to edit and update the content on all pages. It will still be useful to modify the content on different pages which fetches the data from an external source. Currently there are 4 best React based CMS available: [Sanity Studio](https://www.sanity.io/studio), [Netlify CMS](https://www.netlifycms.org/), [Strapi](https://strapi.io/), and [Graph CMS](https://hygraph.com/nextjs-cms).
+
+  
+Note: [Graph CMS(hygraph)](https://hygraph.com/nextjs-cms) is considered to be one of the better choices for a React based application.
