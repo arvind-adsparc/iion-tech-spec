@@ -1,4 +1,4 @@
-- [iion.io - Tech Specification](#iionio---tech-specification)
+# [iion.io - Tech Specification](#iionio---tech-specification)
   * [Tech Stack:](#tech-stack-)
     + [Next JS](#next-js)
     + [SASS/SCSS - Custom Styling](#sass-scss---custom-styling)
@@ -40,8 +40,6 @@
 
 
 
-
-# iion.io - Tech Specification
 
 ## Tech Stack:
 ###  Next JS
