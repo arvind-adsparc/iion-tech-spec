@@ -134,3 +134,27 @@ Geographical performance is being monitored as well to ensure that your site wil
     
 
  ***Important:** It will alert every time a service or third party service goes down but there are sometimes inconsistencies with the alerting system reported by its previous users.
+## Unit Testing:
+There are three ways to test a Javascript web app. Apart from integration testing and user interface testing, the most important of all is unit testing. With unit testing, we can run independent tests on each functionality.
+
+ For example: we have to provide an input that’s supposed to produce a known output. And if the output that comes after testing matches the known output, then the testing is successful.
+Following are some of the most popular Javascript unit testing frameworks:
+
+  
+
+1.  Jest - [Link](https://jestjs.io/): It was the most popular Javascript unit testing framework in 2020. It is a preferred framework for React based applications. It is widely used because it is easy to learn, requires zero setup and manages
+    
+2.  Cypress - [Link](https://www.cypress.io/)  : This framework runs on a browser, where it provides an interactive interface. It can be used on MAC, Windows and Linuxs. It comes with a test runner which allows automated screenshot and video capturing. It is highly preferred by React Developers.
+    
+
+3. StoryBook - [Link](https://storybook.js.org/): This framework makes unit testing easier by helping developers create independent components.Not only is it great for unit testing but it also helps developers document test cases and guidelines.The documents can help other developers who will work on the same projects.
+
+## Automated Testing(Visual):
+### BrowserStack - [Link](https://www.browserstack.com/)
+It is a cloud based testing tool. Developers and testers can do cross-browser testing of various web applications in different browsers.
+
+  
+
+***Cross Browser testing**: it is a functional testing done to check if the application is working as expected or not in different browsers for different operating systems.
+
+  We can use BrowserStack as a remote lab and can use it as a real desktop browser. It gives us Javascript unit tests and supports over 750 configurations.
