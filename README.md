@@ -161,7 +161,7 @@ It is a cloud based testing tool. Developers and testers can do cross-browser te
 ## User Acceptance Testing(UAT):
 User acceptance testing is a type of testing performed by the end user or the client to verify/accept the software system before moving the software application to the production environment. UAT is done in the final phase of testing after functional, integration and system testing is done.
 
-### Purpose:
+ ### Purpose:
 The main purpose of UAT is to validate end to end business flow. It does not focus on cosmetic errors, spelling mistakes or system testing. UAT is carried out in a separate testing environment with production like set up.
 
 ###  Need:
@@ -190,3 +190,28 @@ Following points should be considered to make UAT successful:
 -   Test the system or application with real world scenarios and data
     
 -   Conduct feedback session and meeting before moving to production
+
+## Web Based Demo:
+Web animation can be used to visualize the various steps in a complex process or idea, to illustrate a simple marketing message, or to move things on a web page is natural to draw attention to something.
+
+It can engage and hold people’s attention longer than a static web page and communicates an idea or concept more clearly and effectively.
+
+Web animation should be smooth, meaningful and support the visitor’s journey. The web designer/animator needs to be aware of how animation fits into the user experience(UX).From a logical point of view, we can divide web animation into two basic types:
+
+1.  A static, non interactive web animation, for example: - GIF
+    
+2.  A dynamic web animation with user engagement
+
+## Heatmap Tool:
+Heatmap tool offers a two dimensional representation of how customers are interacting with a website. When a web page is clicked, hovered over, or scrolled through, the heatmap uses visualization to display this behavior. Typically it overlay dark colors on a webpage to indicate a high usage area versus lighter colors for a low usage area.
+###  Must have features:
+-   Behavioral Analytics: This features collects and tracks all mouse movements and any user feedback
+    
+-   Predictive Analysis: AI tools predict future behavior by using data mining and machine learning to identify risk and ROI opportunities that will increase the productivity of a business site.
+    
+-   Funnel Analysis: Maps a user’s journey through a website and identifies the location where visitors stopped.
+    
+-   Deployable on Mobile: Can offer deeper insights into mobile experience for users.
+    
+
+- Real-time monitoring: Tracks how visitors are using the website in real time
