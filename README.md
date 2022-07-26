@@ -83,3 +83,54 @@ While a content editing tool will not allow the marketing team to edit and updat
 
   
 Note: [Graph CMS(hygraph)](https://hygraph.com/nextjs-cms) is considered to be one of the better choices for a React based application.
+
+## Site Management and Monitoring Service:
+### Amazon CloudWatch [paid] - [Link](https://aws.amazon.com/cloudwatch/)
+It helps collect and access all the performance and operational data in form logs and metrics from a single platform rather than monitoring them in silos(server, network, databases). It also helps in monitoring the complete stack (applications, infrastructure, and services).
+####  Features:
+
+-   Easily collect and store logs
+    
+-   High resolutions alarms
+    
+-   Application Insights
+    
+-   Lambda monitoring insights
+    
+-   Improve operational performance and resource optimization
+    
+***Important**: Sometimes live metrics show older data and take time to refresh. It fills the dashboard with stale data.
+
+### Uptime Robot [free + paid] - [Link](https://uptimerobot.com/)
+It is probably the best monitoring tool that we can find if we are only looking for a tool that alerts us whenever the site is down. It focuses on performing synthetic checks on the site and APIs every five minutes and provides alerts through a number of integrations with tools like Slack,Telegram and VictorOps.
+
+####  Features:
+
+-   Simple set up process
+    
+-   Monitors CRON Jobs
+    
+-   SMS and email notifications are available
+    
+-   Advanced notifications notifies certain prerequisites for the alerts: Eg: x errors in y minutes
+    
+
+  
+***Important**: It does not provide real user monitoring and lacks certain features like page insights.
+
+### Pingdom [paid] - [Link](https://www.pingdom.com/)
+Pingdom offers a wide range of capabilities, including SSL certificate monitoring and website performance monitoring.With Its user friendly interface it allows real user monitoring solutions that track real time visits to the site and allows the site owner to enhance the site’s performance with data collected from actual people.
+Geographical performance is being monitored as well to ensure that your site will have the best possible performance regardless of where the users are accessing it from.
+
+#### Features:
+
+-   Detailed interfaces with user friendly features
+    
+-   Fast alerting system
+    
+-   Real user monitoring and synthetic monitoring(simulation monitoring)
+    
+-   SMS and email notifications are available
+    
+
+ ***Important:** It will alert every time a service or third party service goes down but there are sometimes inconsistencies with the alerting system reported by its previous users.
