@@ -47,3 +47,17 @@ Our preferred choice of database is a NoSQL one. NoSQL commonly referred to as �
 -   No Schema or Fixed Data model
     
 -   Support Integrating Caching
+
+## High SEO & performance score for mobile and web:
+[Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) is without a doubt a useful tool for webmasters, developers, and site owners of all types. However, people spend hours obsessing over optimizing their sites, in order to try and score 100/100 on this test.
+
+The truth is that this isn’t how Google PageSpeed is meant to be used for,nor is it a worthwhile pursuit.
+
+The most important aspect of PageSpeed are the recommendations.The more we focus on the recommendations the better is for our site.
+
+While we should certainly try to improve the page loading time as much as possible, getting a 100/100 in Google PageSpeed isn’t actually that important.
+
+Along with Google PageSpeed there are other platforms such GTmetrix, WebPage Test, PingDom, etc which can help us determine the page performance. However chances are the scores across all these platforms won’t match exactly, which tells us how confusing these numbers can be.What really matters is the actual speed of your website. To put it into perspective,there are sites with average loading times of under 500 milliseconds (which is extremely fast!) that don’t have a 100/100 score on PageSpeed Insights.
+
+### Conclusion
+The real purpose of testing the site’s performance with Google PageSpeed Insights isn’t to achieve a high score. Instead, it’s to find problem spots on the site, so that we can optimize them and decrease both the actual and perceived loading times.
